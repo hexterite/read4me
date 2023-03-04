@@ -4,6 +4,6 @@ Read4Me - An application to read text from images and transfer to voice speech u
 ## Development Status
 `IN PROGRESS`
 
-## Instructions
+## Installations
 
 ## Dedications
